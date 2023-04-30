@@ -1,2 +1,2 @@
 # FCC-Rothko
-FreeCodeCamp-(New) Responsive web design-progect "a picture in the style of rotko"
+FreeCodeCamp-(New) Responsive web design-Progect "a picture in the style of rotko"
